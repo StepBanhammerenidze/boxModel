@@ -1,0 +1,49 @@
+body
+{
+    background-color: blue;
+    margin: 0;
+    padding: 0;
+
+
+}
+
+
+.mainDiv {
+    height: 600px;
+    width: 600px;
+    background-color: gold;
+    border-radius: 0%;
+    margin: 0 auto;
+    font-size: 0;
+    
+    
+
+}
+
+
+.mainDiv > div {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 5px solid black;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+
+
+.red {
+ background-color: red;
+}
+
+.yellow{
+ background-color: yellow;
+    
+
+}
+
+.green {
+    background-color: green
+
+}
